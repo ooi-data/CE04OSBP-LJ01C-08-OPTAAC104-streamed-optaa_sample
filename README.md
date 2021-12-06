@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSBP-LJ01C-08-OPTAAC104-streamed-optaa_sample
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: OPTAA<br>
