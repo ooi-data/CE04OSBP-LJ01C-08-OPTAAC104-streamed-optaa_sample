@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSBP-LJ01C-08-OPTAAC104-streamed-optaa_sample
 data_stream: CE04OSBP-LJ01C-08-OPTAAC104-streamed-optaa_sample
-end_date: '2022-01-01T02:03:01.775Z'
-last_updated: '2022-01-24T04:37:59.617556'
+end_date: '2022-02-07T18:03:01.420Z'
+last_updated: '2022-02-10T11:37:24.915738Z'
 start_date: '2015-10-02T22:15:32.690Z'
-status: failed
+status: pending
